@@ -72,12 +72,6 @@ student-record-management/
 
 ---
 
-## 👨‍💻 Developed By
-
-**Durga Prasad Shukla**  
-BCA Student | DPG Degree College (MDU)  
-🔗 [GitHub](https://github.com/rajshuklaa)  
-🔗 [LinkedIn](https://linkedin.com/in/durga-prasad-shukla-803211365)
 
 ---
 
